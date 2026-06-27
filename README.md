@@ -1,24 +1,34 @@
-# 🔐 Ethical Hacking Tools
+# Ethical Hacking Tools
 
-> Mobile penetration testing toolkit running on Android via Kali NetHunter (Rootless)
+Mobile penetration testing toolkit running on Android via Kali NetHunter (Rootless)
 
-## 📱 Device Setup
-- **Device:** Android (Vivo V2342)
-- **Environment:** Termux + Kali NetHunter Rootless
-- **OS:** Kali Linux (proot)
-- **Arch:** ARM64
+## Device Setup
+- Device: Android (Vivo V2342)
+- Environment: Termux + Kali NetHunter Rootless
+- OS: Kali Linux (proot)
+- Arch: ARM64
 
-## 🛠️ Tools Included
+## Tools Installed
 
-| Tool | Language | Description |
-|------|----------|-------------|
-| port_scanner.py | Python | Multi-threaded port scanner |
-| Nmap | CLI | Network reconnaissance |
-| Hydra | CLI | Brute force authentication |
-| SQLmap | Python | SQL injection testing |
+| Tool | Status |
+|------|--------|
+| Kali NetHunter + VNC GUI | Working |
+| Nmap | Working |
+| Hydra | Working |
+| SQLmap | Working |
+| Metasploit | Working |
+| Wireshark | Working |
+| John the Ripper | Working |
+| Aircrack-ng | Working |
+| Ghidra | Working |
+| Radare2 | Working |
+| apktool + JADX | Working |
+| Nuclei + Subfinder | Working |
+| Wordlists (5.2M+) | Working |
+| Java OpenJDK 17 | Working |
 
-## ⚠️ Disclaimer
+## Disclaimer
 Educational purposes only. Use on authorized systems only.
 
-## 👤 Author
+## Author
 patriotpakistan988-lang | Learning ethical hacking
